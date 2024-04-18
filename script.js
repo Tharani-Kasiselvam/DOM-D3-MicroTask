@@ -12,6 +12,7 @@ elem.addEventListener("mouseover",action)
 var brk = document.createElement("br")
 brk.innerHTML="<br><br>"
 
+// Q#3 - Write a Javascript code for character counts in the textarea.
 var txtAr = document.createElement("textarea")
 txtAr.setAttribute("name","char_count")
 txtAr.id = "content"
